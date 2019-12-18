@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
 
-title: Parsa | Portfolio Jekyll Template
+title: Fount of Creativity | Ideas Flow Freely
 logo: logo.png # You can add own logo
 description: # Add your awesome description
 baseurl: "" # The subpath of your site, e.g. /blog
@@ -46,19 +46,10 @@ hero:
 #-------------------------------
 # Author Settings
 author:
-  name: Jhon Abraham
-
-#-------------------------------
-# Contact Info
-contact:
-  email: example@ymail.com
-  phone: +90 000 333 22
-  address:
-    city: Sydney
-    street: 6 rip carl Avenue CA 90733
+  name: Cameron Gates
 
 # Contact Form
-contact-form: example@ymail.com
+contact-form: contact@fountofcreativity.com
 
 # Social links
 social:
