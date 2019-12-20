@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Plants Can Count!"
-date: 2019-04-14 14:46:10 +03:00
+date: 2019-12-20 11:46:10 +10:00
 description: "This is meta description"
 featured: true
 image: "assets/images/featured-post/post-2.jpg"
