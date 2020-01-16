@@ -1,48 +1,19 @@
-<div align="center">
-	<h1>Parsa-jekyll-blog-theme</h1>
-	<p>Parsa jekyll Creative blog Template ported from <a href="https://themefisher.com">Themefisher's</a> <a href="https://themefisher.com/products/parsa-personal-blog-template/"> Parsa HTML Template</a>    </p>
-	<a href="http://demo.themefisher.com/parsa" >Live Preview</a>
-	<p>More free Bootstrap blog templates from <a href="https://themefisher.com/bootstrap-blog-templates/">Here</a>
-</div>
+##Dry Wall - Mansonry Jekyll Blog Theme
 
-## Setup
+Based on the Jekyll Masonry Theme by Pasindu:
 
-To start your project, fork this repository
-After forking the repo, your site will be live immediately on your personal Github Pages account, e.g. `https://yourusername.github.io/your-repo-name/`.
+* Original demo - http://pasindud.github.io/
+* Dev by Pasindu De Silva
+* Authored by [Arunoda](https://github.com/arunoda)
 
-Make sure GitHub Pages is enabled for your repo. It might take some time for the site to propagate entirely.
+##License
 
-## Customize
+The MIT License (MIT)
 
-Things you can customise in `_data/settings.yml` (no HTML/CSS):
-- Theme General Settings ( name, logo, email, phone, address )
-- Hero Section
-- About Section
-- Team Section
-- Skills Section
-- Exprerience Section
-- Education Section
-- Services Section
-- Portfolio Section
-- Testimonials Section
-- Client Slider Section
-- Contact Section
+Copyright (c) 2015 Pasindu
 
-## Deployment
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
-To run the theme locally, navigate to the theme directory and run `bundle install` to install the dependencies, then run `jekyll serve` or `bundle exec jekyll serve` to start the Jekyll server.
-I would recommend checking the [Deployment Methods](https://jekyllrb.com/docs/deployment-methods/) page on Jekyll website.
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-## Reporting Issues
-
-We use GitHub Issues as the official bug tracker for the **Parsa Theme**. Please Search [existing issues](https://github.com/themefisher/parsa-jekyll-blog-theme/issues). It’s possible someone has already reported the same problem.
-If your problem or idea is not addressed yet, [open a new issue](https://github.com/themefisher/parsa-jekyll-blog-theme/issues/new)
-
-## Technical Support or Questions
-
-If you have questions or need help integrating the product please [contact us](mailto:themefisher@gmail.com) instead of opening an issue.
-
-## Licensing
-
-- Copyright 2019 Themefisher (https://themefisher.com/)
-- Jekyll version is released under MIT License.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
