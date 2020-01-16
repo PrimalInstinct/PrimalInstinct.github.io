@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pigeons Recognise Faces
-category: nature
+category: post
 tags: [nature, animals, birds]  
 summary: Pigeons Recognise Faces
 image: /images/posts/pigeons-recognise-faces.jpg
