@@ -24,6 +24,7 @@
 			$(window).resize(function() {
 				applyTiles();
 			});
+			document.getElementById("copyright-year").innerHTML = new Date().getFullYear();
 		</script>
 		<style type="text/css">
 		</style>
@@ -54,7 +55,7 @@
 			<div style='clear:both'></div>
 		</div>
 		<div id='footer'>
-			{{site.full_name}} - {{site.copyright_year}}
+			©<span id="copyright-year"></span> {{site.full_name}}
 		</div>
 	</div>
 	{% include googleana.html %}
